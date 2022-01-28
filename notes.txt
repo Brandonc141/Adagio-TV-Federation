@@ -1,0 +1,25 @@
+Step 1: clone this repo https://github.com/pathakankit99/demonHub 
+
+Step 2: rename .env.example to .env
+
+Step 3: add candymachine id to .env
+
+Step 4: add network to .env //mainnet-beta or devnet
+
+Step 5: add rpc to .env 
+//rpc for devnet = https://api.devnet.solana.com 
+//rpc for mainnet-beta = https://ssc-dao.genesysgo.net/ 
+
+Step 6: yarn
+
+Step 7: yarn dev
+
+Step 8: //Make changes to the website //right click on home.tsx
+
+Step 9: yarn build //if error enter: /* eslint-disable @next/next/no-document-import-in-page */ //on line 1 of _document.js
+
+Step 10: create a repo on gitub 
+
+Step 11: git init
+
+Step 12: git add .
